@@ -1,6 +1,10 @@
-### Hi there 👋
+![MasterHead](https://www.codeastrum.com/themes/astrum/assets/images/gif/pwa_full.gif)
+ 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 # 💫 About Me:
-🌱 MSCS Student.<br>🔭 I'm currently working as a Research Assistant.<br>👯‍♂️ I'm looking to collaborate on intresting projects.<br>💬 Ask me about software devlopment stuff or tech gadgets.<br>⚡️ Fun fact: I'm a Fitness enthusiast<br>
+👋 Hi I'm Jeet.<br>🌱 MSCS Student.<br>🔭 I'm currently working as a Research Assistant.<br>👯‍♂️ I'm looking to collaborate on intresting projects.<br>💬 Ask me about software devlopment stuff or tech gadgets.<br>⚡️ Fun fact: I'm a Fitness enthusiast<br>
 
 
 ## 🌐 Socials:
@@ -15,9 +19,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JEETDESAI25&icon=0&color=0)](https://visitcount.itsvg.in)
