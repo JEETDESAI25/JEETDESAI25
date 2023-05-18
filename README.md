@@ -1,4 +1,4 @@
-![MasterHead](https://www.codeastrum.com/themes/astrum/assets/images/gif/pwa_full.gif)
+<!-- ![MasterHead](https://www.codeastrum.com/themes/astrum/assets/images/gif/pwa_full.gif)
 
 
 
@@ -13,3 +13,4 @@
 ---
 
 
+ -->
